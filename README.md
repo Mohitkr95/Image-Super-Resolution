@@ -1,5 +1,7 @@
 # IMAGE SUPER RESOLUTION
 
+The project is inspired and learned from the Course **Learn Machine Learning By Building Projects** on [Eduonix](https://www.eduonix.com/learn-machine-learning-by-building-projects)
+
 The goal of super-resolution (SR) is to recover a high-resolution image from a low-resolution input, or as they might say on any modern crime show, enhance!
 The authors of the SRCNN describe their network, pointing out the equivalence of their method to the sparse-coding method4, which is a widely used learning method for image SR. This is an important and educational aspect of their work, because it shows how example-based learning methods can be adapted and generalized to CNN models.
 The SRCNN consists of the following operations1:
